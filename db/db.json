@@ -49,16 +49,6 @@
       "created": false
     },
     {
-      "word": "unenamored",
-      "definition": "I HATE THIS",
-      "partOfSpeech": "what do you think it is???",
-      "synonyms": [
-        "what do you think they are???"
-      ],
-      "userAssc": 1,
-      "id": 4
-    },
-    {
       "word": "bloomiest",
       "definition": "the most bloomy",
       "partOfSpeech": "what do you think it is???",
@@ -248,6 +238,67 @@
       "modified": false,
       "created": false,
       "id": 18
+    },
+    {
+      "word": "search",
+      "definition": "looking for something",
+      "partOfSpeech": "verb",
+      "synonyms": [
+        "explore",
+        "research"
+      ],
+      "userAssc": 3,
+      "favorited": false,
+      "modified": true,
+      "created": false,
+      "id": 19
+    },
+    {
+      "word": "commandingness",
+      "definition": "the state of being commanding",
+      "partOfSpeech": "adjective",
+      "synonyms": [
+        "this",
+        "is",
+        "not",
+        "a",
+        "word"
+      ],
+      "userAssc": 4,
+      "favorited": true,
+      "modified": false,
+      "created": false,
+      "id": 20
+    },
+    {
+      "word": "cat",
+      "definition": "a small feline mammal",
+      "partOfSpeech": "noun",
+      "synonyms": [
+        "kitty",
+        "meow-meow"
+      ],
+      "userAssc": 4,
+      "favorited": false,
+      "modified": false,
+      "created": true,
+      "id": 21
+    },
+    {
+      "word": "flanker",
+      "definition": "a soldier who is a member of a detachment assigned to guard the flanks of a military formation",
+      "partOfSpeech": "noun",
+      "synonyms": [
+        "soldier",
+        "person",
+        "cat",
+        "dog"
+      ],
+      "userAssc": 4,
+      "favorited": false,
+      "modified": true,
+      "created": false,
+      "id": 22
     }
   ],
   "users": [
