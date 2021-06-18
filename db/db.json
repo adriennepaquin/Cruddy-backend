@@ -12,7 +12,7 @@
       ],
       "example": "An elephant never forgets.",
       "userAssc": 1,
-      "favorited": true,
+      "favorited": false,
       "modified": false,
       "created": true
     },
@@ -27,7 +27,7 @@
       ],
       "example": "The leaves were blowing around because it was windy outside.",
       "userAssc": 2,
-      "favorited": true,
+      "favorited": false,
       "modified": false,
       "created": false
     },
@@ -44,7 +44,7 @@
       ],
       "example": "My alarm clock was the catalyst for getting out of bed this morning.",
       "userAssc": 1,
-      "favorited": false,
+      "favorited": true,
       "modified": true,
       "created": false
     },
@@ -52,7 +52,9 @@
       "word": "unenamored",
       "definition": "I HATE THIS",
       "partOfSpeech": "what do you think it is???",
-      "synonyms": "what do you think they are???",
+      "synonyms": [
+        "what do you think they are???"
+      ],
       "userAssc": 1,
       "id": 4
     },
@@ -60,7 +62,9 @@
       "word": "bloomiest",
       "definition": "the most bloomy",
       "partOfSpeech": "what do you think it is???",
-      "synonyms": "what do you think they are???",
+      "synonyms": [
+        "what do you think they are???"
+      ],
       "userAssc": 1,
       "favorited": false,
       "modified": true,
@@ -76,7 +80,7 @@
         "bewitchery"
       ],
       "userAssc": 1,
-      "favorited": false,
+      "favorited": true,
       "modified": true,
       "created": false,
       "id": 6
@@ -100,7 +104,9 @@
       "word": "adrienne",
       "definition": "what do you think it means???",
       "partOfSpeech": "what do you think it is???",
-      "synonyms": "what do you think they are???",
+      "synonyms": [
+        "what do you think they are???"
+      ],
       "userAssc": 2,
       "favorited": true,
       "modified": false,
@@ -117,6 +123,131 @@
       "modified": false,
       "created": true,
       "id": 9
+    },
+    {
+      "word": "telephone",
+      "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds",
+      "partOfSpeech": "noun",
+      "synonyms": [
+        "phone",
+        "telephone set"
+      ],
+      "userAssc": 2,
+      "favorited": false,
+      "modified": true,
+      "created": false,
+      "id": 10
+    },
+    {
+      "word": "nondeferrable",
+      "definition": "what do you think it means???",
+      "partOfSpeech": "what do you think it is???",
+      "synonyms": [
+        "necessary",
+        "needed"
+      ],
+      "userAssc": 2,
+      "favorited": false,
+      "modified": true,
+      "created": false,
+      "id": 11
+    },
+    {
+      "word": "yellowish-colored",
+      "definition": "what do you think it means???",
+      "partOfSpeech": "what do you think it is???",
+      "synonyms": [
+        "yellow",
+        "green"
+      ],
+      "userAssc": 2,
+      "favorited": false,
+      "modified": true,
+      "created": false,
+      "id": 12
+    },
+    {
+      "word": "self-speech",
+      "definition": "what do you think it means???",
+      "partOfSpeech": "what do you think it is???",
+      "synonyms": [
+        "peptalk"
+      ],
+      "userAssc": 2,
+      "favorited": false,
+      "modified": true,
+      "created": false,
+      "id": 13
+    },
+    {
+      "word": "incipiently",
+      "definition": "what do you think it means???",
+      "partOfSpeech": "what do you think it is???",
+      "synonyms": [
+        "dog",
+        "cat",
+        "fish"
+      ],
+      "userAssc": 2,
+      "favorited": true,
+      "modified": true,
+      "created": false,
+      "id": 14
+    },
+    {
+      "word": "boat",
+      "definition": "a dish (often boat-shaped) for serving gravy or sauce",
+      "partOfSpeech": "noun",
+      "synonyms": [
+        "sailboat",
+        "schooner"
+      ],
+      "userAssc": 2,
+      "favorited": false,
+      "modified": true,
+      "created": false,
+      "id": 15
+    },
+    {
+      "word": "serin finch",
+      "definition": "what do you think it means???",
+      "partOfSpeech": "what do you think it is???",
+      "synonyms": [
+        "what do you think they are???"
+      ],
+      "userAssc": 3,
+      "favorited": true,
+      "modified": false,
+      "created": false,
+      "id": 16
+    },
+    {
+      "word": "proboscis worm",
+      "definition": "soft unsegmented marine worms that have a threadlike proboscis and the ability to stretch and contract",
+      "partOfSpeech": "noun",
+      "synonyms": [
+        "nemertean",
+        "nemertine",
+        "ribbon worm"
+      ],
+      "userAssc": 3,
+      "favorited": true,
+      "modified": false,
+      "created": false,
+      "id": 17
+    },
+    {
+      "word": "unicorn",
+      "definition": "an imaginary creature represented as a white horse with a long horn growing from its forehead",
+      "partOfSpeech": "noun",
+      "synonyms": [
+        "what do you think they are???"
+      ],
+      "userAssc": 2,
+      "favorited": true,
+      "modified": false,
+      "created": false,
+      "id": 18
     }
   ],
   "users": [
