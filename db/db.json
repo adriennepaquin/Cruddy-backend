@@ -1,15 +1,18 @@
 {
-  "words":
-  [
+  "words": [
     {
       "id": 1,
       "word": "elephant",
-      "definition": "large, grey mammal",
+      "definition": "large, grey mammal with big ears",
       "partOfSpeech": "noun",
-      "synonyms": ["pachyderm", "mastodon", "tusker"],
+      "synonyms": [
+        "pachyderm",
+        "mastodon",
+        "tusker"
+      ],
       "example": "An elephant never forgets.",
       "userAssc": 1,
-      "favorited": false,
+      "favorited": true,
       "modified": false,
       "created": true
     },
@@ -18,7 +21,10 @@
       "word": "windy",
       "definition": "the state of air blowing",
       "partOfSpeech": "adjective",
-      "synonyms": ["blustery", "breezy"],
+      "synonyms": [
+        "blustery",
+        "breezy"
+      ],
       "example": "The leaves were blowing around because it was windy outside.",
       "userAssc": 2,
       "favorited": true,
@@ -30,16 +36,90 @@
       "word": "catalyst",
       "definition": "an inciting incident",
       "partOfSpeech": "noun",
-      "synonyms": ["incitement", "motivation", "cause", "impetus"],
+      "synonyms": [
+        "incitement",
+        "motivation",
+        "cause",
+        "impetus"
+      ],
       "example": "My alarm clock was the catalyst for getting out of bed this morning.",
       "userAssc": 1,
       "favorited": false,
       "modified": true,
       "created": false
+    },
+    {
+      "word": "unenamored",
+      "definition": "I HATE THIS",
+      "partOfSpeech": "what do you think it is???",
+      "synonyms": "what do you think they are???",
+      "userAssc": 1,
+      "id": 4
+    },
+    {
+      "word": "bloomiest",
+      "definition": "the most bloomy",
+      "partOfSpeech": "what do you think it is???",
+      "synonyms": "what do you think they are???",
+      "userAssc": 1,
+      "favorited": false,
+      "modified": true,
+      "created": false,
+      "id": 5
+    },
+    {
+      "word": "beguilement",
+      "definition": "magnetic individual charm",
+      "partOfSpeech": "noun",
+      "synonyms": [
+        "animal magnetism",
+        "bewitchery"
+      ],
+      "userAssc": 1,
+      "favorited": false,
+      "modified": true,
+      "created": false,
+      "id": 6
+    },
+    {
+      "userAssc": 2,
+      "word": "elephant",
+      "definition": "large, grey mammal",
+      "partOfSpeech": "noun",
+      "synonyms": [
+        "pachyderm",
+        "mastodon",
+        "tusker"
+      ],
+      "favorited": true,
+      "modified": false,
+      "created": false,
+      "id": 7
+    },
+    {
+      "word": "adrienne",
+      "definition": "what do you think it means???",
+      "partOfSpeech": "what do you think it is???",
+      "synonyms": "what do you think they are???",
+      "userAssc": 2,
+      "favorited": true,
+      "modified": false,
+      "created": false,
+      "id": 8
+    },
+    {
+      "word": "dinosaur",
+      "definition": "old thing",
+      "partOfSpeech": "noun",
+      "synonyms": [],
+      "userAssc": 1,
+      "favorited": false,
+      "modified": false,
+      "created": true,
+      "id": 9
     }
   ],
-  "users":
-  [
+  "users": [
     {
       "id": 1,
       "name": "Kyle"
@@ -47,6 +127,14 @@
     {
       "id": 2,
       "name": "Adrienne"
+    },
+    {
+      "name": "Bob",
+      "id": 3
+    },
+    {
+      "name": "Carol",
+      "id": 4
     }
   ]
 }
